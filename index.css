@@ -1,0 +1,52 @@
+.head-1{
+    padding: 10px;
+}
+.leftBox{
+    display: flex;
+    padding-left: 1180px;
+}
+.letters{
+    padding: 10px;
+    color: black;
+    text-decoration: none;
+}
+.letters:hover{
+    text-decoration: underline;
+}
+.sec{
+    padding: 100px;
+}
+.foot{
+    padding: 60px;
+}
+.profile{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: transparent;
+}
+.prof{
+    padding-left: 20px;
+}
+.image{
+    width: 400px;
+    padding-left: 440px;
+}
+.bar{
+    padding-left: 340px;
+    padding-right: 400px;
+}
+.search{
+    border-radius: 16px;
+    background-color: wheat;
+}
+.button{
+    text-align: center;
+    padding-top: 20px;
+    width: 80%;
+    box-sizing: border-box;
+    background-color: wheat;
+    border-color: transparent;
+}
+
